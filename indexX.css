@@ -12,9 +12,11 @@ body {
     align-items: center;
     flex-direction: column;
 }
-.input-group-text{
+
+.input-group-text {
     background-color: #00ffff;
 }
+
 .heading {
     font-family: 'Orbitron', sans-serif;
     text-shadow: 0 0 10px #00ffff;
